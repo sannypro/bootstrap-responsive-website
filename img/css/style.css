@@ -13,7 +13,8 @@ body{
 }
 .banner{
     height: calc(100vh - 80px);
+    min-height: 500px;
 }
 .web-design{
-    height: 100vh;
+    min-height: 100vh;
 }
